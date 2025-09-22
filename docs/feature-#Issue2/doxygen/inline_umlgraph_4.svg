@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="230px" preserveAspectRatio="none" style="width:247px;height:230px;" version="1.1" viewBox="0 0 247 230" width="247px" zoomAndPan="magnify"><defs><filter height="300%" id="f1i9bzii2i87ow" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[ff16b79ca4e34ef4da15c1b30759c29a]
+class Sheep--><rect fill="#FEFECE" filter="url(#f1i9bzii2i87ow)" height="60.8047" id="Sheep" style="stroke: #A80036; stroke-width: 1.5;" width="72" x="6" y="145.5"/><ellipse cx="21" cy="161.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M23.9688,167.1406 Q23.3906,167.4375 22.75,167.5781 Q22.1094,167.7344 21.4063,167.7344 Q18.9063,167.7344 17.5781,166.0938 Q16.2656,164.4375 16.2656,161.3125 Q16.2656,158.1875 17.5781,156.5313 Q18.9063,154.875 21.4063,154.875 Q22.1094,154.875 22.75,155.0313 Q23.4063,155.1875 23.9688,155.4844 L23.9688,158.2031 Q23.3438,157.625 22.75,157.3594 Q22.1563,157.0781 21.5313,157.0781 Q20.1875,157.0781 19.5,158.1563 Q18.8125,159.2188 18.8125,161.3125 Q18.8125,163.4063 19.5,164.4844 Q20.1875,165.5469 21.5313,165.5469 Q22.1563,165.5469 22.75,165.2813 Q23.3438,165 23.9688,164.4219 L23.9688,167.1406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="40" x="35" y="165.6543">Sheep</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="77" y1="177.5" y2="177.5"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="77" y1="185.5" y2="185.5"/><ellipse cx="17" cy="196.5" fill="#84BE84" rx="3" ry="3" style="stroke: #038048; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="27" x="26" y="199.7104">run()</text><!--MD5=[454ed48f055567edc734f170f61b4daf]
+class Dog--><rect fill="#FEFECE" filter="url(#f1i9bzii2i87ow)" height="48" id="Dog" style="stroke: #A80036; stroke-width: 1.5;" width="57" x="13.5" y="8"/><ellipse cx="28.5" cy="24" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M31.4688,29.6406 Q30.8906,29.9375 30.25,30.0781 Q29.6094,30.2344 28.9063,30.2344 Q26.4063,30.2344 25.0781,28.5938 Q23.7656,26.9375 23.7656,23.8125 Q23.7656,20.6875 25.0781,19.0313 Q26.4063,17.375 28.9063,17.375 Q29.6094,17.375 30.25,17.5313 Q30.9063,17.6875 31.4688,17.9844 L31.4688,20.7031 Q30.8438,20.125 30.25,19.8594 Q29.6563,19.5781 29.0313,19.5781 Q27.6875,19.5781 27,20.6563 Q26.3125,21.7188 26.3125,23.8125 Q26.3125,25.9063 27,26.9844 Q27.6875,28.0469 29.0313,28.0469 Q29.6563,28.0469 30.25,27.7813 Q30.8438,27.5 31.4688,26.9219 L31.4688,29.6406 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="25" x="42.5" y="28.1543">Dog</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="14.5" x2="69.5" y1="40" y2="40"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="14.5" x2="69.5" y1="48" y2="48"/><path d="M113,133 L113,172 L78.09,176 L113,180 L113,218.6641 A0,0 0 0 0 113,218.6641 L235,218.6641 A0,0 0 0 0 235,218.6641 L235,143 L225,133 L113,133 A0,0 0 0 0 113,133 " fill="#FBFB77" filter="url(#f1i9bzii2i87ow)" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M225,133 L225,143 L235,143 L225,133 " fill="#FBFB77" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="101" x="119" y="150.0669">Responsibilities:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="70" x="119" y="165.1997">- Very cute</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="0" x="123" y="180.3325"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="89" x="119" y="195.4653">Collaborators:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="35" x="119" y="210.5981">- Dog</text><!--MD5=[fcb761d321eeb1dbf11a2950e223bac6]
+link Dog to Sheep--><path d="M42,56.13 C42,78.97 42,114.18 42,140.36 " fill="none" id="Dog-&gt;Sheep" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="42,145.47,46,136.47,42,140.47,38,136.47,42,145.47" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="113" x="43" y="99.0669">Start the running.</text><!--MD5=[bacef60f77d3af53c0a22fe5d40ef22e]
+@startuml inline_umlgraph_4.svg
+class Sheep {
+  + run()
+}
+
+Dog - -> Sheep : Start the running.
+
+note right of Sheep
+Responsibilities:
+- Very cute
+
+Collaborators:
+- Dog
+end note
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 UTC 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.28+6
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
