@@ -1,1 +1,1 @@
-var branches = ["main"]
+var branches = ["main", "feature-#Issue2"]
